@@ -26,7 +26,7 @@ The system simulates secure file sharing with:
 ## 🛠️ Setup and Run
 
 ```
-cd Secure-File-Transfer-Protocol-with-RSA/SFTProtocol/src
+cd Secure-File-Transfer-Protocol-with-RSA/src
 ```
 
 1. **Key Generation**
