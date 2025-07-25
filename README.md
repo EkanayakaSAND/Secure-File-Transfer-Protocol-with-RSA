@@ -23,10 +23,10 @@ The system simulates secure file sharing with:
 
 ---
 
-## 🛠️ How It Works
+## 🛠️ Setup and Run
 
 ```
-cd 
+cd Secure-File-Transfer-Protocol-with-RSA/SFTProtocol/src
 ```
 
 1. **Key Generation**
@@ -55,7 +55,7 @@ cd
 ## 🤝 Contributors
 
 This project was developed by:
- - 
- - 
- - 
- - 
+ - [Isuru Deshapriya](https://github.com/i-s-u-r-u)
+ - [Sachintha Liyanage](https://github.com/sachinthaliyanage)
+ - [Amanada Senevirathna](https://github.com/ACSENEVIRATHNA)
+ - [Nirmana Ekanayaka](https://github.com/EkanayakaSAND)
