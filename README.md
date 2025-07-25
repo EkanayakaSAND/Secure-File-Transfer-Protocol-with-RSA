@@ -54,7 +54,8 @@ cd Secure-File-Transfer-Protocol-with-RSA/SFTProtocol/src
 
 ## 🤝 Contributors
 
-This project was developed by:
+This project was developed as part of the academic coursework at the **Department of Electrical and Information Engineering**, **Faculty of Engineering**, **University of Ruhuna**.
+
  - [Isuru Deshapriya](https://github.com/i-s-u-r-u)
  - [Sachintha Liyanage](https://github.com/sachinthaliyanage)
  - [Amanada Senevirathna](https://github.com/ACSENEVIRATHNA)
